@@ -23,5 +23,5 @@ This page is editting...
 
 ## certification
 
-基本情報技術者
+基本情報技術者  
 応用情報技術者
