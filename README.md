@@ -20,3 +20,8 @@ This page is editting...
 [](![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CVE202&theme=gruvbox))
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CVE202&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CVE202&theme=gruvbox&utcOffset=9)
+
+## certification
+
+基本情報技術者
+応用情報技術者
